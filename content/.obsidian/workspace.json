@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "3b8cd56521053192",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee85681876ebe2da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ecb5b602ad314ab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conteudos/lesoes/tipos-de-fibras-musculares.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8307897b6ca85f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16c86be4994a1612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0268ed4d3d40b2b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8edfb567da5c557f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "065787bf4f33e852",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b39af012e4f0252b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d58804335082eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6966f33161659f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conteudos/lesoes/tipos-de-fibras-musculares.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a84f3c8e4bb9166e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conteudos/lesoes/tipos-de-fibras-musculares.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3f9526e32094ef1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7667391fe0c7ddea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conteudos/lesoes/tipos-de-fibras-musculares.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "ecb5b602ad314ab3",
+  "lastOpenFiles": [
+    "conteudos/saude/a-importancia-do-imc.md",
+    "conteudos/lesoes/tipos-de-fibras-musculares.md",
+    "conteudos/lesoes/index.md",
+    "conteudos/lesoes/exercicios-lesoes-joelho.md",
+    "index.md"
+  ]
+}

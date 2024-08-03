@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Personal",
+        "description": "Para resultados rápidos",
+        "path": "/projetos/personal",
+        "icon": "material-symbols:exercise"
+    },
+    {   
+        "name": "Consultoria",
+        "description": "Para todo mundo",
+        "path": "/projetos/consultoria",
+        "icon": "fa6-solid:person-running"
+    },
+    {
+        "name": "Avaliação Física",
+        "description": "Até para clientes de outros personais",
+        "path": "/projetos/avaliacao",
+        "icon": "jam:medical"
+    }
+]
